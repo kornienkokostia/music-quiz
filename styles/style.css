@@ -51,6 +51,15 @@ body{
     min-height: 660px;
 }
 
+input[type=range]{
+    -webkit-appearance: none;
+    appearance: none;
+}
+progress{
+    -webkit-appearance: none;
+    appearance: none;
+}
+
 /* svg fill */
 
 .logo-svg-path-fill{
